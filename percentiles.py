@@ -1,4 +1,5 @@
 # percentile scoring
+# based on think stats with python
 
 def percentileRank(scores, your_score):
 	count = 0
